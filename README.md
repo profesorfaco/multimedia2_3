@@ -1,7 +1,8 @@
-# Tercera clase de Multimedia II
-### Vamos a seguir explorando Bootstrap
+Diseño Gráfico · Universidad de Chile
 
-Vamos a revisar algunas "themes" o "plantillas", donde alguien ya ha avanzado con Bootstrap. Lo que haremos será modificarlas a la medida de lo que necesitemos.
+# Multimedia II
+
+Hoy vamos a revisar algunas "themes" o "plantillas", donde alguien ya ha avanzado con Bootstrap. Lo que haremos será modificarlas a la medida de lo que necesitemos.
 
 https://getbootstrap.com/
 
@@ -9,4 +10,4 @@ https://startbootstrap.com/
 
 - - - - - - - 
 
-[Clase anterior](https://github.com/profesorfaco/multimedia2_2) · [Clase siguiente](https://github.com/profesorfaco/multimedia2_4)
+[Clase anterior](https://github.com/profesorfaco/multimedia2_2) | [Clase siguiente](https://github.com/profesorfaco/multimedia2_4)
